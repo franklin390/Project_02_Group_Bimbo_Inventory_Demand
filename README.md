@@ -23,4 +23,5 @@ Para visualizar a análise completa feita neste projeto, acesse este link:
 * https://franklin390.github.io/Project_02_Group_Bimbo_Inventory_Demand/
 
 **Nota:** Para executar este experimento, descompate todos os arquivos zipados.
+
 ---
